@@ -1,7 +1,7 @@
 # My First Project 
 Hi I'm Mohit 
 This is my first Git hub repository.
-I am learning Python anf AI/ML 
+I am learning Python and AI/ML 
 
 ## What I am learning 
 - Python basics
