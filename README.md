@@ -9,4 +9,4 @@ I am learning Python and AI/ML
 - AI / ML fundamentals
 
 ## Goal 
-To build real projects and improve my skill 2
+To build real projects and improve my skill 
